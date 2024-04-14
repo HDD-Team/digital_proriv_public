@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "card"
+    },
+    {
+      "id": 1,
+      "name": "price"
+    },
+    {
+      "id": 2,
+      "name": "product_name"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
